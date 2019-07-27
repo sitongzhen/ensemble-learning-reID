@@ -7,8 +7,11 @@ I use Python 2.7 and Pytorch 1.0.1. For installing Pytorch, follow the [official
 pip install -r requirements.txt
 ```
 Then clone the repository:
+
 '''bash
+
 git clone https://github.com/sitongzhen/ensemble-learning-reID.git
+
 '''
 
 # Dataset Preparation
